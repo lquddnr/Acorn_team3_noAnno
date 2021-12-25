@@ -10,6 +10,6 @@
 <p>작업 메뉴</p>
 <!-- <a href="buserinfo">부서 정보</a> -->
 
-<a href="login">로그인</a> (부서정보를 보려면 로그인 해야 합니다)
+<a href="login">로그인</a> (부서정보를 보려면 로그인 해야 합니다)Jenkins test
 </body>
 </html>
