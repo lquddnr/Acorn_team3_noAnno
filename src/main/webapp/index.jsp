@@ -11,10 +11,6 @@
 <!-- <a href="buserinfo">부서 정보</a> -->
 
 <a href="login">로그인</a> (부서정보를 보려면 로그인 해야 합니다)
-<<<<<<< HEAD
-수정테스트1
-=======
-아아아아아아아아아아아
->>>>>>> branch 'main' of https://github.com/lquddnr/Acorn_team3_noAnno
+1234
 </body>
 </html>
